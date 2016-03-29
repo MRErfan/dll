@@ -205,6 +205,8 @@ function create_config( )
   config = {
     enabled_plugins = {
     "onservice",
+    "aparat",
+    "azan",
     "feedback",
     "addbot",
     "plugins",
