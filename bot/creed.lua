@@ -532,7 +532,7 @@ function on_secret_chat_update (schat, what)
 end
 
 function on_get_difference_end ()
-
+end
 -- Enable plugins in config.json
 function load_plugins()
   for k, v in pairs(_config.enabled_plugins) do
