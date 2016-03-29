@@ -1,6 +1,6 @@
 do
 local function run(msg, matches)
-local bot_id = 111100000 -- ای دی ربات شما
+local bot_id = 182092698 -- ای دی ربات شما
     if matches[1] == 'ترک گروه' and is_admin(msg) then
        chat_del_user("chat#id"..msg.to.id, 'user#id'..bot_id, ok_cb, false)
     elseif msg.action.type == "chat_add_user" and msg.action.user.id == tonumber(bot_id) and not is_sudo(msg) then
