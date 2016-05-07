@@ -1,7 +1,7 @@
-### ربات هانتر ###
+#### zeous ####
 
-#سرورس برای تیم هانتر می باشد
+this scourc for zeous team 
 
-### هانتر تیم ###
+### zeous team ###
 
 *[سودو](telegram.me/erfan0953)*
